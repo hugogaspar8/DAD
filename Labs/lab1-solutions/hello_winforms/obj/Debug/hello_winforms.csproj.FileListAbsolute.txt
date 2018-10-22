@@ -1,0 +1,9 @@
+C:\Users\Hugo Gaspar\Desktop\lab1-solutions\hello_winforms\bin\Debug\hello_winforms.exe
+C:\Users\Hugo Gaspar\Desktop\lab1-solutions\hello_winforms\bin\Debug\hello_winforms.pdb
+C:\Users\Hugo Gaspar\Desktop\lab1-solutions\hello_winforms\bin\Debug\hello.xml
+C:\Users\Hugo Gaspar\Desktop\lab1-solutions\hello_winforms\obj\Debug\hello_winforms.csprojAssemblyReference.cache
+C:\Users\Hugo Gaspar\Desktop\lab1-solutions\hello_winforms\obj\Debug\HelloWinforms.FormArranque.resources
+C:\Users\Hugo Gaspar\Desktop\lab1-solutions\hello_winforms\obj\Debug\hello_winforms.csproj.GenerateResource.cache
+C:\Users\Hugo Gaspar\Desktop\lab1-solutions\hello_winforms\obj\Debug\hello_winforms.csproj.CoreCompileInputs.cache
+C:\Users\Hugo Gaspar\Desktop\lab1-solutions\hello_winforms\obj\Debug\hello_winforms.exe
+C:\Users\Hugo Gaspar\Desktop\lab1-solutions\hello_winforms\obj\Debug\hello_winforms.pdb

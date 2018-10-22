@@ -1,0 +1,6 @@
+C:\Users\Hugo Gaspar\Desktop\DAD\lab2-solutions\Slider\bin\Debug\Slider.exe
+C:\Users\Hugo Gaspar\Desktop\DAD\lab2-solutions\Slider\bin\Debug\Slider.pdb
+C:\Users\Hugo Gaspar\Desktop\DAD\lab2-solutions\Slider\obj\Debug\Slider.csprojAssemblyReference.cache
+C:\Users\Hugo Gaspar\Desktop\DAD\lab2-solutions\Slider\obj\Debug\Slider.csproj.CoreCompileInputs.cache
+C:\Users\Hugo Gaspar\Desktop\DAD\lab2-solutions\Slider\obj\Debug\Slider.exe
+C:\Users\Hugo Gaspar\Desktop\DAD\lab2-solutions\Slider\obj\Debug\Slider.pdb

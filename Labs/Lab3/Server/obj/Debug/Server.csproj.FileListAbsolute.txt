@@ -1,0 +1,9 @@
+C:\Users\Hugo Gaspar\Desktop\DAD\Lab3\Server\bin\Debug\Server.exe
+C:\Users\Hugo Gaspar\Desktop\DAD\Lab3\Server\bin\Debug\Server.pdb
+C:\Users\Hugo Gaspar\Desktop\DAD\Lab3\Server\bin\Debug\CommonTypes.dll
+C:\Users\Hugo Gaspar\Desktop\DAD\Lab3\Server\bin\Debug\CommonTypes.pdb
+C:\Users\Hugo Gaspar\Desktop\DAD\Lab3\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Hugo Gaspar\Desktop\DAD\Lab3\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Hugo Gaspar\Desktop\DAD\Lab3\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Hugo Gaspar\Desktop\DAD\Lab3\Server\obj\Debug\Server.exe
+C:\Users\Hugo Gaspar\Desktop\DAD\Lab3\Server\obj\Debug\Server.pdb

@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>lista_nomes</name>
+    </assembly>
+    <members>
+        <member name="T:Names.form_nomes">
+            <summary>
+            Form for manipulating a NameListClasse do formulário de manipulação de uma ListaNomes
+            </summary>
+        </member>
+        <member name="F:Names.form_nomes.lista">
+            <summary>
+            Lista de Nomes usada para guardar os nomes (instanciada no construtor)
+            </summary>
+        </member>
+        <member name="F:Names.form_nomes.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Names.form_nomes.Dispose(System.Boolean)">
+            <summary>
+            Limpeza de recursos que estejam a ser usados.
+            </summary>
+        </member>
+        <member name="M:Names.form_nomes.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:Names.form_nomes.Main">
+            <summary>
+            Ponto de entrada da aplicação.
+            </summary>
+        </member>
+        <member name="M:Names.form_nomes.bt_insercao_Click(System.Object,System.EventArgs)">
+            <summary>
+            Processamento do evento Click no botão bt_insercao.
+            </summary>
+        </member>
+        <member name="M:Names.form_nomes.form_nomes_Load(System.Object,System.EventArgs)">
+            <summary>
+            Método executado sempre que o formulário é carregado.
+            </summary>
+        </member>
+        <member name="M:Names.form_nomes.bt_esvaziar_Click(System.Object,System.EventArgs)">
+            <summary>
+            Processamento do evento Click no botão bt_esvaziar.
+            </summary>
+        </member>
+        <member name="T:Names.INameList">
+            <summary>
+            Name list interface.
+            </summary>
+        </member>
+        <member name="M:Names.INameList.Add(System.String)">
+            <summary>
+            Add a new name into the list.
+            </summary>
+            <param name="novoNome">
+            New name to be added.
+            </param>
+        </member>
+        <member name="M:Names.INameList.Empty">
+            <summary>
+            Empties the list.
+            </summary>
+        </member>
+        <member name="M:Names.INameList.toString">
+            <summary>
+            Returns the whole list as a string.
+            </summary>
+            <returns>string containing all the list's elements.</returns>
+        </member>
+        <member name="T:Names.NameList">
+            <summary>
+            Summary description for nomes.
+            </summary>
+        </member>
+        <member name="F:Names.NameList.list">
+            <summary>
+            List containing the names.
+            </summary>
+        </member>
+        <member name="M:Names.NameList.#ctor">
+            <summary>
+            NameList default constructor
+            </summary>
+        </member>
+        <member name="M:Names.NameList.Add(System.String)">
+            <summary>
+            Adds a new name to the list.
+            </summary>
+            <param name="newName">
+            New name to be added to the list.
+            </param>
+        </member>
+        <member name="M:Names.NameList.Empty">
+            <summary>
+            Empties the list
+            </summary>
+        </member>
+        <member name="M:Names.NameList.toString">
+            <summary>
+            Returns the whole list as a string.
+            </summary>
+            <returns>string containing all the list's elements.</returns>
+        </member>
+    </members>
+</doc>

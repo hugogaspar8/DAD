@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>aula1_hello_consola</name>
+    </assembly>
+    <members>
+        <member name="T:HelloConsola.CMain">
+            <summary>
+            Simple class containing the application's Main entry method.
+            </summary>
+        </member>
+        <member name="M:HelloConsola.CMain.Main">
+            <summary>
+            Main method, application's entry point
+            </summary>
+        </member>
+    </members>
+</doc>

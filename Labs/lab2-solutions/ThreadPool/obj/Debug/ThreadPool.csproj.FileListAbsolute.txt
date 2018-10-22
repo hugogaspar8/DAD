@@ -1,0 +1,6 @@
+C:\Users\Hugo Gaspar\Desktop\DAD\lab2-solutions\ThreadPool\bin\Debug\ThreadPool.exe
+C:\Users\Hugo Gaspar\Desktop\DAD\lab2-solutions\ThreadPool\bin\Debug\ThreadPool.pdb
+C:\Users\Hugo Gaspar\Desktop\DAD\lab2-solutions\ThreadPool\obj\Debug\ThreadPool.csprojAssemblyReference.cache
+C:\Users\Hugo Gaspar\Desktop\DAD\lab2-solutions\ThreadPool\obj\Debug\ThreadPool.csproj.CoreCompileInputs.cache
+C:\Users\Hugo Gaspar\Desktop\DAD\lab2-solutions\ThreadPool\obj\Debug\ThreadPool.exe
+C:\Users\Hugo Gaspar\Desktop\DAD\lab2-solutions\ThreadPool\obj\Debug\ThreadPool.pdb

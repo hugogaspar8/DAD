@@ -1,0 +1,6 @@
+C:\Users\Hugo Gaspar\Desktop\DAD\Lab3\CommonTypes\bin\Debug\CommonTypes.dll
+C:\Users\Hugo Gaspar\Desktop\DAD\Lab3\CommonTypes\bin\Debug\CommonTypes.pdb
+C:\Users\Hugo Gaspar\Desktop\DAD\Lab3\CommonTypes\obj\Debug\CommonTypes.csprojAssemblyReference.cache
+C:\Users\Hugo Gaspar\Desktop\DAD\Lab3\CommonTypes\obj\Debug\CommonTypes.csproj.CoreCompileInputs.cache
+C:\Users\Hugo Gaspar\Desktop\DAD\Lab3\CommonTypes\obj\Debug\CommonTypes.dll
+C:\Users\Hugo Gaspar\Desktop\DAD\Lab3\CommonTypes\obj\Debug\CommonTypes.pdb

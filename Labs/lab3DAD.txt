@@ -1,0 +1,31 @@
+Serviços Servidor: SS: ISS, MBRO
+		registar cliente(nick,url)
+		send message(nick, mss)
+
+Serviços client: SC: ISC, MRBO
+	receber mensagem
+
+Class library: ISS AND ISC
+
+WF: porto em q o cliente se quer registar
+
+FormChat
+TcpChannel ch;
+SC sc = new SC(this);
+void addmsg(string m){tbConv.text + = "/n";}
+
+Click on reg
+ch = new TcpChannel(Int32.Parse(tbPort.text));
+ChannelServices.RegisterChannel(ch,false);
+RemotingServices.Marshall(sc,"nome", typeof(sc));
+ISS s = (ISS) Activator.GetObject(typeof(ISS),"tcp://localhost:7777/MCM"
+s.Reg(tbNick.text, "tcp://localhost:" + tbPort.text + "/nome")
+
+------
+delegate void delDVRS(string s);
+public class SC: ISC, MBRO {
+	FormChat fc;
+	public void Recv(string m){
+		fc.Invoke( new delDVRS(fc.addmsg), new object[]{m});
+	}
+}

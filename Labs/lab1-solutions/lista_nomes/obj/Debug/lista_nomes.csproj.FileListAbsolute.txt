@@ -1,0 +1,9 @@
+C:\Users\Hugo Gaspar\Desktop\lab1-solutions\lista_nomes\bin\Debug\lista_nomes.exe
+C:\Users\Hugo Gaspar\Desktop\lab1-solutions\lista_nomes\bin\Debug\lista_nomes.pdb
+C:\Users\Hugo Gaspar\Desktop\lab1-solutions\lista_nomes\bin\Debug\ListaNomes.xml
+C:\Users\Hugo Gaspar\Desktop\lab1-solutions\lista_nomes\obj\Debug\lista_nomes.csprojAssemblyReference.cache
+C:\Users\Hugo Gaspar\Desktop\lab1-solutions\lista_nomes\obj\Debug\Names.form_nomes.resources
+C:\Users\Hugo Gaspar\Desktop\lab1-solutions\lista_nomes\obj\Debug\lista_nomes.csproj.GenerateResource.cache
+C:\Users\Hugo Gaspar\Desktop\lab1-solutions\lista_nomes\obj\Debug\lista_nomes.csproj.CoreCompileInputs.cache
+C:\Users\Hugo Gaspar\Desktop\lab1-solutions\lista_nomes\obj\Debug\lista_nomes.exe
+C:\Users\Hugo Gaspar\Desktop\lab1-solutions\lista_nomes\obj\Debug\lista_nomes.pdb

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>hello_winforms</name>
+    </assembly>
+    <members>
+        <member name="T:HelloWinforms.FormArranque">
+            <summary>
+            FormArranque class: when instantiated shows a windos with a message. 
+            </summary>
+        </member>
+        <member name="F:HelloWinforms.FormArranque.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:HelloWinforms.FormArranque.#ctor">
+            <summary>
+            FormArranque default constructor. 
+            </summary>
+        </member>
+        <member name="M:HelloWinforms.FormArranque.Dispose(System.Boolean)">
+            <summary>
+            Resource cleanup.
+            </summary>
+        </member>
+        <member name="M:HelloWinforms.FormArranque.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:HelloWinforms.FormArranque.Main">
+            <summary>
+            The Main static method, the application's entry point.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,7 @@
+C:\Users\Hugo Gaspar\Desktop\lab1-solutions\hello_consola\bin\Debug\aula1_hello_consola.exe
+C:\Users\Hugo Gaspar\Desktop\lab1-solutions\hello_consola\bin\Debug\aula1_hello_consola.pdb
+C:\Users\Hugo Gaspar\Desktop\lab1-solutions\hello_consola\bin\Debug\hello_consola.xml
+C:\Users\Hugo Gaspar\Desktop\lab1-solutions\hello_consola\obj\Debug\hello_consola.csprojAssemblyReference.cache
+C:\Users\Hugo Gaspar\Desktop\lab1-solutions\hello_consola\obj\Debug\hello_consola.csproj.CoreCompileInputs.cache
+C:\Users\Hugo Gaspar\Desktop\lab1-solutions\hello_consola\obj\Debug\aula1_hello_consola.exe
+C:\Users\Hugo Gaspar\Desktop\lab1-solutions\hello_consola\obj\Debug\aula1_hello_consola.pdb
