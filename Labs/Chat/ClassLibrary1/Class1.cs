@@ -14,6 +14,6 @@ namespace CommonLib
     {
         void registerClient(string nick, string url);
         void sendMessage(string nick, string message);
-        void close(string nick);
+        
     }
 }

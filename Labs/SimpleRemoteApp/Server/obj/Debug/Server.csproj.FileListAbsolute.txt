@@ -1,0 +1,10 @@
+C:\Users\waza\source\repos\SimpleRemoteApp\Server\bin\Debug\Server.exe.config
+C:\Users\waza\source\repos\SimpleRemoteApp\Server\bin\Debug\Server.exe
+C:\Users\waza\source\repos\SimpleRemoteApp\Server\bin\Debug\Server.pdb
+C:\Users\waza\source\repos\SimpleRemoteApp\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\waza\source\repos\SimpleRemoteApp\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\waza\source\repos\SimpleRemoteApp\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\waza\source\repos\SimpleRemoteApp\Server\obj\Debug\Server.exe
+C:\Users\waza\source\repos\SimpleRemoteApp\Server\obj\Debug\Server.pdb
+C:\Users\waza\source\repos\SimpleRemoteApp\Server\bin\Debug\CommonLib.dll
+C:\Users\waza\source\repos\SimpleRemoteApp\Server\bin\Debug\CommonLib.pdb

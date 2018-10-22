@@ -1,0 +1,6 @@
+C:\Users\Hugo Gaspar\Desktop\DAD\Labs\Chat\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Hugo Gaspar\Desktop\DAD\Labs\Chat\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Hugo Gaspar\Desktop\DAD\Labs\Chat\ClassLibrary1\obj\Debug\CommonLib.csprojAssemblyReference.cache
+C:\Users\Hugo Gaspar\Desktop\DAD\Labs\Chat\ClassLibrary1\obj\Debug\CommonLib.csproj.CoreCompileInputs.cache
+C:\Users\Hugo Gaspar\Desktop\DAD\Labs\Chat\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Hugo Gaspar\Desktop\DAD\Labs\Chat\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

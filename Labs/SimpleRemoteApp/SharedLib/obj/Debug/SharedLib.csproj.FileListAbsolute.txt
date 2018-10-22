@@ -1,0 +1,6 @@
+C:\Users\waza\source\repos\SimpleRemoteApp\SharedLib\bin\Debug\SharedLib.dll
+C:\Users\waza\source\repos\SimpleRemoteApp\SharedLib\bin\Debug\SharedLib.pdb
+C:\Users\waza\source\repos\SimpleRemoteApp\SharedLib\obj\Debug\SharedLib.csprojAssemblyReference.cache
+C:\Users\waza\source\repos\SimpleRemoteApp\SharedLib\obj\Debug\SharedLib.csproj.CoreCompileInputs.cache
+C:\Users\waza\source\repos\SimpleRemoteApp\SharedLib\obj\Debug\SharedLib.dll
+C:\Users\waza\source\repos\SimpleRemoteApp\SharedLib\obj\Debug\SharedLib.pdb
